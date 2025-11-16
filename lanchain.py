@@ -8,3 +8,6 @@ if __name__ == "__main__":
     num2 = 7
     result = add_numbers(num1, num2)
     print(f"The sum of {num1} and {num2} is: {result}")
+
+
+#thats my code    """Returns the sum of two integers."""
